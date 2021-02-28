@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --workdir /home/mohanty/data/final_dataset
+#SBATCH --workdir /home/Lalit data/final_dataset
 #SBATCH --nodes 1
 #SBATCH --ntasks 1
 #SBATCH --cpus-per-task 2
